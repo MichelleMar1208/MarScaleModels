@@ -1,0 +1,16 @@
+#menu{
+background-color: #7FB3D5;
+}
+#menu a{
+    font-size: 18px;
+    color:#1A5276 ;
+    font-family: 'Scheherazade New', serif;
+}
+#menu button{
+    font-size: 18px;
+    font-family: 'Scheherazade New', serif;
+}
+.dropdown-menu a{
+    color: #1A5276  !important;
+    font-family: 'Scheherazade New', serif;
+}
